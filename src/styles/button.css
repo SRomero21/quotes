@@ -1,0 +1,16 @@
+.button-container{
+    display: flex;
+    justify-content: flex-end;
+    margin: 2rem;
+}
+button{
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none;
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+ button > i{
+    color: #fff;
+}

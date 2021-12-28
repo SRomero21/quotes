@@ -1,0 +1,32 @@
+.card {
+  background-color: aliceblue;
+  width: 50%;
+  height: 40%;
+  border-radius: 40px;
+}
+.phrase-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 1rem;
+}
+.phrase {
+  text-align: center;
+  margin: 1rem;
+}
+i {
+  margin: 1rem;
+}
+.quotes-anchor {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 5px;
+  font-size: 2rem;
+  background-color: transparent;
+}
+.author > p {
+  font-weight: 700;
+  text-align: right;
+  margin-right: 2.1rem;
+}
