@@ -9,8 +9,9 @@ button{
     border: none;
     font-weight: 600;
     font-size: 1.2rem;
-    margin-bottom: 1rem;
-}
- button > i{
+    margin-bottom: 2rem;
+} 
+button > i{
     color: #fff;
+
 }
